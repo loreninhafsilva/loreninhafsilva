@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lorena Silva</h1>
 <h3 align="center">Recently working as a scholarship holder in the scientific initiation program at UNICAMP.</h3>
 
-<h3 align="left">Connect with me: cl202243@g.unicamp.br</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/loreninhafsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loreninhafsilva" height="30" width="40" /></a>
+</p>
+<a href="https://criarmeulink.com.br/u/1694026517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="loreninhafsilva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

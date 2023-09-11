@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorena Silva</h1>
-<h3 align="center">Recently working as a scholarship holder in the scientific initiation program at UNICAMP loves programming and learning new things.</h3>
+<h3 align="center">Recently working as a scholarship holder in the scientific initiation program at UNICAMP, loves programming and learning new things.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,13 +1,9 @@
-# Oi, eu sou a Lorena 👋
+# Oi, eu sou a Lorena Silva👋
 
-🎓 Graduanda em Ciências Biológicas  
-💻 Técnica em Desenvolvimento de Sistemas  
+🎓 Graduanda em Ciências Biológicas pela UNESP
+💻 Técnica em Desenvolvimento de Sistemas pelo COTIL/UNICAMP
 🔬 Interesse em bioinformática, IA e relações ecológicas  
 🌱 Ciência + tecnologia + meio ambiente  
-
-## Sobre mim
-Sou estudante de Biologia com formação prévia em tecnologia.  
-Tenho interesse em aplicar programação na área biológica.
 
 ## Interesses
 - Bioinformática

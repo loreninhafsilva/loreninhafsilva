@@ -14,9 +14,10 @@ Tenho interesse em aplicar programação na área biológica.
 - Microbiologia
 - Análise de dados biológicos
 
-## Atualmente aprendendo
+## Atualmente aprendendo: 
 - Python para ciência de dados
 - Ferramentas de bioinformática
+- Inglês Avançado
 
 ## Contato
 📧 lorena.f.silva@unesp.br ou lorenasilva.dev@gmail.com

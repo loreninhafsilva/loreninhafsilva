@@ -6,7 +6,9 @@
 
 🔬 **Passionate about** Bioinformatics, AI, and Ecological Relationships
 
-🌱 **Science + Technology + Environment** ## About Me
+🌱 **Science + Technology + Environment** 
+
+## About Me
 Beyond the lab and the code, I am a huge **cat lover** and have a deep fascination with the world of **insects**—specifically **beetles** (Coleoptera). When I’m not studying, you’ll likely find me lost in a **book**, as reading is my favorite way to unwind and explore new perspectives.
 
 ## Interests
